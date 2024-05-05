@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nara
 - 👀 I’m interested in data science & AI
 - 🌱 I’m currently learning cloud computing
-- 📫 How to reach me https://www.linkedin.com/in/naragb/
+- 📫  Reach me on LinkedIn/naragb/
 - ⚡ Fun fact: passionate about sustainability
 
 <!---
